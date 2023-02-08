@@ -1,5 +1,8 @@
 # our_space_django
 
+a backend server of our space flutter app
+can run with our_space_flutter
+
 based on Linux
 
 db.sqlite3 should be located on ./our_space
